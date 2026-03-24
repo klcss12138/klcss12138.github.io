@@ -17,17 +17,17 @@
       <p><strong>🔬 Research</strong><br>Robot Visual Perception<br>Image Feature Matching<br>Robot Visual Navigation</p>
     </div>
   </div>
-  
+
   <div style="flex: 1; min-width: 300px;">
     <h1 style="margin-top: 0;">Hi there! 👋 I'm Haozhe Wang</h1>
     <p>Welcome to my GitHub homepage! I'm a Doctor's Candidate in Mechanical Engineering at China University of Mining and Technology (CUMT), passionate about advancing research in robot visual perception, image feature matching, and robot visual navigation.</p>
-  
+
     <h2>About Me</h2>
     <ul>
       <li>🎓 <strong>Current Status</strong>: Doctor's Candidate (2026 - Present) at CUMT, Xuzhou, China</li>
       <li>🔬 <strong>Research Focus</strong>: Robot visual perception, Image feature matching, Robot visual navigation</li>
     </ul>
-  
+
     <h2>Education</h2>
     <table>
       <tr>
@@ -55,14 +55,14 @@
         <td>2020 - 2024</td>
       </tr>
     </table>
-  
+
     <h2>Research Interests</h2>
     <ul>
       <li>Robot visual perception</li>
       <li>Image feature matching</li>
       <li>Robot visual navigation</li>
     </ul>
-  
+
     <h2>Selected Honors and Awards</h2>
     <ul>
       <li>Principal Investigator, Postgraduate Research & Practice Innovation Program of Jiangsu Province (Completed, 2025)</li>
@@ -71,7 +71,7 @@
       <li>Wang Yanqing Enterprise Scholarship, 2025</li>
       <li>First-Class Scholarship, China University of Mining and Technology, 2024</li>
     </ul>
-  
+
     <h2>Skills</h2>
     <ul>
       <li><strong>Programming Languages</strong>: Python, C++</li>
