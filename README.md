@@ -23,65 +23,61 @@
     <p>Welcome to my GitHub homepage! I'm a Doctor's Candidate in Mechanical Engineering at China University of Mining and Technology (CUMT), passionate about advancing research in robot visual perception, image feature matching, and robot visual navigation.</p>
 
     <h2>About Me</h2>
-      <ul>
-        <li>🎓 <strong>Current Status</strong>: Doctor's Candidate (2026 - Present) at CUMT, Xuzhou, China</li>
-        <li>🔬 <strong>Research Focus</strong>: Robot visual perception, Image feature matching, Robot visual navigation</li>
-      </ul>
-      
-      <h2>Education</h2>
-      <table>
-        <thead>
-          <tr>
-            <th>Education</th>
-            <th>Institution</th>
-            <th>Major</th>
-            <th>Year</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td>Ph.D. student</td>
-            <td>China University of Mining and Technology</td>
-            <td>Mechanical Engineering</td>
-            <td>2026 - Present</td>
-          </tr>
-          <tr>
-            <td>Master's Student (Integrated Master's-Ph.D. Program)</td>
-            <td>China University of Mining and Technology</td>
-            <td>Mechanical Engineering</td>
-            <td>2024 - 2026</td>
-          </tr>
-          <tr>
-            <td>Bachelor</td>
-            <td>China University of Mining and Technology</td>
-            <td>Robot Engineering</td>
-            <td>2020 - 2024</td>
-          </tr>
-        </tbody>
-      </table>
-      
-      <h2>Research Interests</h2>
-      <ul>
-        <li>Robot visual perception</li>
-        <li>Image feature matching</li>
-        <li>Robot visual navigation</li>
-      </ul>
-      
-      <h2>Selected Honors and Awards</h2>
-      <ul>
-        <li>Principal Investigator, Postgraduate Research & Practice Innovation Program of Jiangsu Province (Completed, 2025)</li>
-        <li>Second Prize (National Final), China International Sensor Innovation and Entrepreneurship Competition</li>
-        <li>Second-Class Scholarship, China University of Mining and Technology, 2025</li>
-        <li>Wang Yanqing Enterprise Scholarship, 2025</li>
-        <li>First-Class Scholarship, China University of Mining and Technology, 2024</li>
-      </ul>
-      
-      <h2>Skills</h2>
-      <ul>
-        <li><strong>Programming Languages</strong>: Python, C++</li>
-        <li><strong>Deep Learning Frameworks</strong>: PyTorch, TensorFlow</li>
-        <li><strong>Tools & Libraries</strong>: Open3D, NumPy, OpenCV, Git, Zotero</li>
-        <li><strong>Academic Writing</strong>: LaTeX, Markdown</li>
-      </ul>
+    <ul>
+      <li>🎓 <strong>Current Status</strong>: Doctor's Candidate (2026 - Present) at CUMT, Xuzhou, China</li>
+      <li>🔬 <strong>Research Focus</strong>: Robot visual perception, Image feature matching, Robot visual navigation</li>
+    </ul>
+
+    <h2>Education</h2>
+    <table>
+      <tr>
+        <th>Education</th>
+        <th>Institution</th>
+        <th>Major</th>
+        <th>Year</th>
+      </tr>
+      <tr>
+        <td>Ph.D. student</td>
+        <td>China University of Mining and Technology</td>
+        <td>Mechanical Engineering</td>
+        <td>2026 - Present</td>
+      </tr>
+      <tr>
+        <td>Master's Student (Integrated Master's-Ph.D. Program)</td>
+        <td>China University of Mining and Technology</td>
+        <td>Mechanical Engineering</td>
+        <td>2024 - 2026</td>
+      </tr>
+      <tr>
+        <td>Bachelor</td>
+        <td>China University of Mining and Technology</td>
+        <td>Robot Engineering</td>
+        <td>2020 - 2024</td>
+      </tr>
+    </table>
+
+    <h2>Research Interests</h2>
+    <ul>
+      <li>Robot visual perception</li>
+      <li>Image feature matching</li>
+      <li>Robot visual navigation</li>
+    </ul>
+
+    <h2>Selected Honors and Awards</h2>
+    <ul>
+      <li>Principal Investigator, Postgraduate Research & Practice Innovation Program of Jiangsu Province (Completed, 2025)</li>
+      <li>Second Prize (National Final), China International Sensor Innovation and Entrepreneurship Competition</li>
+      <li>Second-Class Scholarship, China University of Mining and Technology, 2025</li>
+      <li>Wang Yanqing Enterprise Scholarship, 2025</li>
+      <li>First-Class Scholarship, China University of Mining and Technology, 2024</li>
+    </ul>
+
+    <h2>Skills</h2>
+    <ul>
+      <li><strong>Programming Languages</strong>: Python, C++</li>
+      <li><strong>Deep Learning Frameworks</strong>: PyTorch, TensorFlow</li>
+      <li><strong>Tools & Libraries</strong>: Open3D, NumPy, OpenCV, Git, Zotero</li>
+      <li><strong>Academic Writing</strong>: LaTeX, Markdown</li>
+    </ul>
   </div>
 </div>
