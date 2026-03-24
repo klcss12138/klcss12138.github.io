@@ -7,7 +7,7 @@
       style="border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"
     >
     <div style="margin-top: 15px; text-align: left; font-size: 14px;">
-      <p><strong>🎓 Dr. Candidate</strong></p>
+      <p><strong>🎓 Dr. Wang</strong></p>
       <p>Mechanical Engineering</p>
       <p>China University of Mining and Technology</p>
       <hr style="margin: 10px 0; opacity: 0.3">
