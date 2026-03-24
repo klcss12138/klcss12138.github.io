@@ -12,7 +12,7 @@
       <p>China University of Mining and Technology</p>
       <hr style="margin: 10px 0; opacity: 0.3">
       <p>📧 <a href="mailto:haozhewang@cumt.edu.cn">haozhewang@cumt.edu.cn</a></p>
-      <p>💻 <a href="https://github.com/klcss12138">Haozhe Wang</a></p>
+      <p>💻 <a href="https://github.com/klcss12138">github.com/klcss12138</a></p>
       <hr style="margin: 10px 0; opacity: 0.3">
       <p><strong>🔬 Research</strong><br>Robot Visual Perception<br>Image Feature Matching<br>Robot Visual Navigation</p>
     </div>
