@@ -21,7 +21,7 @@
   <div style="flex: 1; min-width: 300px;">
     <h1 style="margin-top: 0;">Hi there! 👋 I'm Haozhe Wang</h1>
     <p>Welcome to my GitHub homepage! I'm a Doctor's Candidate in Mechanical Engineering at China University of Mining and Technology (CUMT), passionate about advancing research in robot visual perception, image feature matching, and robot visual navigation.</p>
-
+  
     <h2>About Me</h2>
     <ul>
       <li>🎓 <strong>Current Status</strong>: Doctor's Candidate (2026 - Present) at CUMT, Xuzhou, China</li>
@@ -79,4 +79,5 @@
       <li><strong>Tools & Libraries</strong>: Open3D, NumPy, OpenCV, Git, Zotero</li>
       <li><strong>Academic Writing</strong>: LaTeX, Markdown</li>
     </ul>
+  </div>
 </div>
