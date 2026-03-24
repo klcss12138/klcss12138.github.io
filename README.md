@@ -7,7 +7,7 @@
       style="border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"
     >
     <div style="margin-top: 15px; text-align: left; font-size: 14px;">
-      <p><strong>🎓 Dr. Wang</strong></p>
+      <p><strong>🎓 Ph.D. student</strong></p>
       <p>Mechanical Engineering</p>
       <p>China University of Mining and Technology</p>
       <hr style="margin: 10px 0; opacity: 0.3">
@@ -32,25 +32,25 @@
   <h2>Education</h2>
   <table>
     <tr>
-      <th>Degree</th>
+      <th>Education</th>
       <th>Institution</th>
       <th>Major</th>
       <th>Year</th>
     </tr>
     <tr>
-      <td>Doctor's</td>
+      <td>Ph.D. student</td>
       <td>China University of Mining and Technology</td>
       <td>Mechanical Engineering</td>
       <td>2026 - Present</td>
     </tr>
     <tr>
-      <td>Master's</td>
+      <td>Master's Student (Integrated Master's-Ph.D. Program)</td>
       <td>China University of Mining and Technology</td>
       <td>Mechanical Engineering</td>
       <td>2024 - 2026</td>
     </tr>
     <tr>
-      <td>Bachelor's</td>
+      <td>Bachelor</td>
       <td>China University of Mining and Technology</td>
       <td>Robot Engineering</td>
       <td>2020 - 2024</td>
